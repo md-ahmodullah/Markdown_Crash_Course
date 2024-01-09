@@ -107,7 +107,7 @@ https://web.whatsapp.com/
 #### Image :
 <!--![my_image](./images/resizes-git-pro.jpg)-->
 
-<img src='./images/resizes-git-pro.jpg' height="220px" width="800px" title="my_image">
+<img src='./images/resizes-git-pro.jpg' height="220px" width="500px" title="my_image">
 
 
 #### Emoji :
