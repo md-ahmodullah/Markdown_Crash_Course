@@ -137,4 +137,6 @@ https://web.whatsapp.com/
 ✅ _git clone_ section practice Done!   
 🥰 Feeling Awesome!
 
-
+#### _git pull_
+---
+<p>This file is changed in remote repository to practice git pull. I will pull this file from my github repository. I have made changes to it and re-commit this file.</p>
