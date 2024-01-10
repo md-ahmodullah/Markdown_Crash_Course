@@ -107,7 +107,7 @@ https://web.whatsapp.com/
 #### Image :
 <!--![my_image](./images/resizes-git-pro.jpg)-->
 
-<img src='./images/resizes-git-pro.jpg' height="220px" width="400px" title="my_image">
+<img src='./images/resizes-git-pro.jpg' height="200px" width="300px" title="my_image">
 
 
 #### Emoji :
@@ -121,8 +121,20 @@ https://web.whatsapp.com/
 | Ahmod | Unemployed | Single |  
 | Foisal | Lab Operator | Married |  
 | Jahid | Korean Language Expert | Single|
+| Unknown | Not yet | undefined|
 
+#### _git clone_
+---
+<p>This file is downloaded to practice git clone. I have clonned this file from my github repository. I will make changes to it and re-commit this file.</p>
 
+## My changes after _git clone_  
 
+-[x] 1. adding _git clone_ title and descriptions.  
+-[x] 2. minimize width of image  
+-[x] 3. add a section in table.  
+-[x] 4. adding emoji at the end.
+
+✅ _git clone_ section practice Done!   
+🥰 Feeling Awesome!
 
 
